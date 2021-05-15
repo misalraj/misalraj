@@ -24,10 +24,11 @@ Hi I'm **Misal Raj**, a Data Scientist.
 - 🔭 I’m currently working on [tez](https://github.com/misalraj/tez)
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on [kaggel](https://www.kaggle.com/misalraj)
+- 😄 Pronouns: [he/him]
+
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: [he/him]
 <!-- - ⚡ Fun fact: ... -->
 ---
 
