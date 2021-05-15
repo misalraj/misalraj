@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/MisalRaj_">
-  <img align="left" alt="Misal's Twitter" width="21px" src="/assets/twitter_1.svg" />
+  <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <!-- <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
