@@ -1,22 +1,22 @@
 ### Hi <img src="/assets/wave.gif" width="20px"> I'm [Misal](https://github.com/misalraj)
 
 <a href="https://twitter.com/MisalRaj_" target="_blank" rel="noopener">
-  <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
+  <img align="left" alt="Misal's Twitter" width="25px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj" target="_blank">
-  <img align="left" alt="Misal's Linkedin" width="30px" src="/assets/linkedin.svg" />
+  <img align="left" alt="Misal's Linkedin" width="25px" src="/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/misalraj" target="_blank">
-  <img align="left" alt="Misal's kaggle" width="30px" src="/assets/kaggle.png" />
+  <img align="left" alt="Misal's kaggle" width="25px" src="/assets/kaggle.png" />
 </a>
 <a href="https://www.instagram.com/misalraj_" target="_blank">
-  <img align="left" alt="Misal's instagram" width="30px" src="/assets/instagram.svg" />
+  <img align="left" alt="Misal's instagram" width="25px" src="/assets/instagram.svg" />
 </a>
 <a href="https://discordapp.com/users/739856785309171823" target="_blank">
-  <img align="left" alt="Misal's Discord" width="30px" src="/assets/discord.svg" />
+  <img align="left" alt="Misal's Discord" width="25px" src="/assets/discord.svg" />
 </a>
 <a href="https://t.me/ImMisal" target="_blank">
-  <img align="left" alt="Misal's Telegram" width="30px" src="/assets/telegram.svg" />
+  <img align="left" alt="Misal's Telegram" width="25px" src="/assets/telegram.svg" />
 </a>
 
 <br/>
