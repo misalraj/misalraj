@@ -5,7 +5,7 @@
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj" target="_blank">
-  <img align="left" alt="Anurag's Linkedin" width="30px" src="/assets/linedin.gif" />
+  <img align="left" alt="Anurag's Linkedin" width="30px" src="/assets/linkedin.gif" />
 </a>
 <a href="https://www.kaggle.com/misalraj" target="_blank">
   <img align="left" alt="Anurag's kaggle" width="30px" src="/assets/kaggle.png" />
