@@ -1,12 +1,12 @@
 ### Hi 👋 I'm [Misal](misalraj.github.io)
 
-<!-- 
+
 <a href="https://twitter.com/MisalRaj_">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/misalraj/asset" />
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/misalraj/asset/" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a> -->
+</a>
 
 <!--
 **misalraj/misalraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
