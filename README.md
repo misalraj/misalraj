@@ -1,5 +1,4 @@
-### Hi 👋 I'm [Misal](https://github.com/misalraj)
-
+### Hi <img src="/assets/wave.gif" width="20px"> I'm [Misal](https://github.com/misalraj)
 
 <a href="https://twitter.com/MisalRaj_" target="_blank" rel="noopener">
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
@@ -63,8 +62,6 @@ I'm **Misal Raj**, a Data Scientist. 🇮🇳
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalraj&layout=compact" alt="Misal's top-lang"/>
 </a>
-
----
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)
 
