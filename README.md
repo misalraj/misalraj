@@ -1,6 +1,6 @@
 ### Hi <img src="/assets/wave.gif" width="20px"> I'm [Misal](https://github.com/misalraj)
 
-<!-- <a href="https://twitter.com/MisalRaj_" target="_blank" rel="noopener">
+<a href="https://twitter.com/MisalRaj_" target="_blank" rel="noopener">
   <img align="left" alt="Misal's Twitter" width="25px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj" target="_blank">
@@ -18,7 +18,7 @@
 <a href="https://t.me/ImMisal" target="_blank">
   <img align="left" alt="Misal's Telegram" width="25px" src="/assets/telegram.svg" />
 </a>
-  -->
+ 
 <br/>
 
 ---
