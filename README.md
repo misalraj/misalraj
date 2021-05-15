@@ -17,6 +17,7 @@
   <img align="left" alt="Anurag's Discord" width="30px" src="/assets/discord.svg" />
 </a>
 
+<br/>
 ---
 Hi I'm **Misal Raj**, a Data Scientist.
 - 🔭 I’m currently working on [tez](https://github.com/misalraj/tez)
