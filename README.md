@@ -1,7 +1,7 @@
 ### Hi 👋 I'm [Misal](https://misalraj.github.io)
 
 
-<!-- <a href="https://twitter.com/MisalRaj_">
+<a href="https://twitter.com/MisalRaj_">
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj">
@@ -15,7 +15,7 @@
 </a>
 <a href="https://discordapp.com/users/739856785309171823">
   <img align="left" alt="Anurag's Discord" width="30px" src="/assets/discord.svg" />
-</a> -->
+</a>
 
 <br/>
 
