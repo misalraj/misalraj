@@ -59,10 +59,10 @@ I'm **Misal Raj**, a Data Scientist. 🇮🇳
 
 **Github stats:**
 
-<a href="https://github.com"Misalhazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=misalraj&show_icons=true" alt="Misal's github stats" />
 </a>
-<a href="https://github.com"Misalhazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalraj&layout=compact" alt="Misal's top-lang"/>
 </a>
 
