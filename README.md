@@ -1,7 +1,7 @@
 ### Hi 👋 I'm [Misal](https://github.com/misalraj)
 
 
-<a href="https://twitter.com/MisalRaj_" target="_blank">
+<a href="https://twitter.com/MisalRaj_" target="_blank" rel="noopener">
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 I'm **Misal Raj**, a Data Scientist. 🇮🇳
-- 🔭 I’m currently working on [tez](https://github.com/misalraj/tez)
+- 🔭 I’m currently working on [COWIN APP](https://github.com/misalraj/vaccine_availability_info)
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on [kaggel](https://www.kaggle.com/misalraj)
 - 😄 Pronouns: [he/him]
