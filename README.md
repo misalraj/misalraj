@@ -64,4 +64,8 @@ I'm **Misal Raj**, a Data Scientist. 🇮🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalraj&layout=compact&theme=material-palenight" alt="Misal's top-lang"/>
 </a>
 
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=misalraj&show_icons=true&include_all_commits=false&theme=dracula") -->
