@@ -4,18 +4,20 @@
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj" target="_blank">
-  <img align="left" alt="Anurag's Linkedin" width="30px" src="/assets/linkedin.svg" />
+  <img align="left" alt="Misal's Linkedin" width="30px" src="/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/misalraj" target="_blank">
-  <img align="left" alt="Anurag's kaggle" width="30px" src="/assets/kaggle.png" />
+  <img align="left" alt="Misal's kaggle" width="30px" src="/assets/kaggle.png" />
 </a>
 <a href="https://www.instagram.com/misalraj_" target="_blank">
-  <img align="left" alt="Anurag's instagram" width="30px" src="/assets/instagram.svg" />
+  <img align="left" alt="Misal's instagram" width="30px" src="/assets/instagram.svg" />
 </a>
 <a href="https://discordapp.com/users/739856785309171823" target="_blank">
-  <img align="left" alt="Anurag's Discord" width="30px" src="/assets/discord.svg" />
+  <img align="left" alt="Misal's Discord" width="30px" src="/assets/discord.svg" />
 </a>
-
+<a href="https://t.me/ImMisal" target="_blank">
+  <img align="left" alt="Misal's Telegram" width="30px" src="/assets/telegram.svg" />
+</a>
 <br/>
 
 ---
@@ -56,13 +58,14 @@ I'm **Misal Raj**, a Data Scientist. 🇮🇳
 
 **Github stats:**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com"Misalhazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=misalraj&show_icons=true" alt="Misal's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com"Misalhazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalraj&layout=compact" alt="Misal's top-lang"/>
 </a>
 
+---
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)](https://github.com/misalraj)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=misalraj&show_icons=true&include_all_commits=false&theme=dracula") -->
+<!-- !"Misal's GitHub stats](https://github-readme-stats"Misalhazra1.vercel.app/api?username=misalraj&show_icons=true&include_all_commits=false&theme=dracula") -->
