@@ -4,7 +4,7 @@
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj" target="_blank">
-  <img align="left" alt="Anurag's Linkedin" width="30px" src="/assets/linkedin.gif" />
+  <img align="left" alt="Anurag's Linkedin" width="30px" src="/assets/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/misalraj" target="_blank">
   <img align="left" alt="Anurag's kaggle" width="30px" src="/assets/kaggle.png" />
@@ -63,6 +63,6 @@ I'm **Misal Raj**, a Data Scientist. 🇮🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalraj&layout=compact" alt="Misal's top-lang"/>
 </a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)](https://github.com/misalraj)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=misalraj&show_icons=true&include_all_commits=false&theme=dracula") -->
