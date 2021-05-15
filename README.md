@@ -1,34 +1,36 @@
 ### Hi 👋 I'm [Misal](https://misalraj.github.io)
 
 
-<a href="https://twitter.com/MisalRaj_">
+<!-- <a href="https://twitter.com/MisalRaj_">
   <img align="left" alt="Misal's Twitter" width="30px" src="/assets/twitter_1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/misalraj">
   <img align="left" alt="Anurag's Linkedin" width="30px" src="/assets/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/misalraj">
+  <img align="left" alt="Anurag's kaggle" width="30px" src="/assets/kaggle.png" />
 </a>
 <a href="https://www.instagram.com/misalraj_">
   <img align="left" alt="Anurag's instagram" width="30px" src="/assets/instagram.svg" />
 </a>
 <a href="https://discordapp.com/users/739856785309171823">
   <img align="left" alt="Anurag's Discord" width="30px" src="/assets/discord.svg" />
-</a>
-<a href="https://www.kaggle.com/misalraj">
-  <img align="left" alt="Anurag's kaggle" width="30px" src="/assets/kaggle.png" />
-</a>
+</a> -->
+
 <br/>
 
 ---
-Hi I'm Misal Raj, a Machine Learning Engineer.
+Hi I'm **Misal Raj**, a Data Scientist.
 - 🔭 I’m currently working on [tez](https://github.com/misalraj/tez)
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on [kaggel](https://www.kaggle.com/misalraj)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+- 😄 Pronouns: [he/him]
+<!-- - ⚡ Fun fact: ... -->
 ---
+
 <br>
 
 **Languages and Tools:**  
