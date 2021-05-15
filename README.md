@@ -21,7 +21,7 @@
 
 ---
 I'm **Misal Raj**, a Data Scientist. 🇮🇳
-- 🔭 I’m currently working on [COWIN APP](https://github.com/misalraj/vaccine_availability_info)
+- 🔭 I’m currently working on [Cowin App](https://github.com/misalraj/vaccine_availability_info)
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on [kaggel](https://www.kaggle.com/misalraj)
 - 😄 Pronouns: [he/him]
