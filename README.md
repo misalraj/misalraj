@@ -1,4 +1,4 @@
-### Hi 👋 I'm [Misal](misalraj.github.io)
+### Hi 👋 I'm [Misal](https://misalraj.github.io)
 
 
 <a href="https://twitter.com/MisalRaj_">
