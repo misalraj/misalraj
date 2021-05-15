@@ -67,6 +67,8 @@ I'm **Misal Raj**, a Data Scientist. :india:
 </a>
 
 ---
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)](https://github.com/misalraj)
+<!-- [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=misalraj.misalraj)](https://github.com/misalraj) -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=misalraj&color=blue&style=plastic)](https://github.com/misalraj)
 
 <!-- !"Misal's GitHub stats](https://github-readme-stats"Misalhazra1.vercel.app/api?username=misalraj&show_icons=true&include_all_commits=false&theme=dracula") -->
