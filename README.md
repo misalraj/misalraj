@@ -22,7 +22,7 @@
 <br/>
 
 ---
-I'm **Misal Raj**, a Data Scientist. :india:
+I'm **Misal Raj** :india:
 <!-- - 🔭 I’m currently working on [Cowin App](https://github.com/misalraj/vaccine_availability_info)
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on [kaggel](https://www.kaggle.com/misalraj) -->
