@@ -21,8 +21,6 @@
  
 <br/>
 
-
-
 ---
 I'm **Misal Raj** :india:
 <!-- - 🔭 I’m currently working on [Cowin App](https://github.com/misalraj/vaccine_availability_info)
