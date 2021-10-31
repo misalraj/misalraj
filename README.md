@@ -12,9 +12,9 @@
 <!-- <a href="https://www.instagram.com/misalraj_" target="_blank">
   <img align="left" alt="Misal's instagram" width="25px" src="/assets/instagram.svg" />
 </a> -->
-<a href="https://discordapp.com/users/739856785309171823" target="_blank">
+<!-- <a href="https://discordapp.com/users/739856785309171823" target="_blank">
   <img align="left" alt="Misal's Discord" width="25px" src="/assets/discord.svg" />
-</a>
+</a> -->
 <a href="https://t.me/ImMisal" target="_blank">
   <img align="left" alt="Misal's Telegram" width="25px" src="/assets/telegram.svg" />
 </a>
