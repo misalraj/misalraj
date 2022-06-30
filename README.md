@@ -1,4 +1,4 @@
-### Hi <img src="/assets/wave.gif" width="20px"> I'm [Misal](https://github.com/misalraj)
+### Hi <img src="/assets/wave.gif" width="5px"> I'm [Misal](https://github.com/misalraj)
 
 <a href="https://twitter.com/MisalRaj_" target="_blank" rel="noopener">
   <img align="left" alt="Misal's Twitter" width="25px" src="/assets/twitter_1.svg" />
