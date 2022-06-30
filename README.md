@@ -37,7 +37,7 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<!-- --- -->
+---
 
 **Languages and Tools:**
 
