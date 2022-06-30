@@ -22,22 +22,22 @@
 
 <br/>
 
----
+<!-- --- -->
 
-I'm **Misal Raj** :india:
+<!-- I'm **Misal Raj** :india: -->
 
 <!-- - 🔭 I’m currently working on [Cowin App](https://github.com/misalraj/vaccine_availability_info)
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on [kaggel](https://www.kaggle.com/misalraj) -->
 
-- 😄 Pronouns: [he/him]
+<!-- - 😄 Pronouns: [he/him] -->
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
----
+<!-- --- -->
 
 **Languages and Tools:**
 
