@@ -81,9 +81,13 @@
 
 **Github stats:**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=misalraj&show_icons=true" alt="Misal's github stats" />
-</a>
+</a> -->
+
+![Subin's github stats](https://github-readme-stats.vercel.app/api?username=misalraj&show_icons=true&hide_border=true)
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/misalraj/notebook)](https://www.kaggle.com/misalraj)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalraj&layout=compact" alt="Misal's top-lang"/>
 </a>
@@ -95,5 +99,4 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=misalraj&color=blue&style=plastic)](https://github.com/misalraj)
 
 <!-- !"Misal's GitHub stats](https://github-readme-stats"Misalhazra1.vercel.app/api?username=misalraj&show_icons=true&include_all_commits=false&theme=dracula") -->
-
 
